@@ -1,0 +1,6 @@
+FOLDER_TST: /home/user/tst
+FOLDER_OUT: /home/user/out
+FOLDER_folder1: /home/user/folder1
+count: 2
+bs: 1M
+file_extension: zip
