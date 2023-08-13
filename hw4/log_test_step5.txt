@@ -1,0 +1,54 @@
+авг 14 00:12:01 userpc sshd[237239]: pam_unix(sshd:session): session closed for user Mokona
+авг 14 00:12:01 userpc systemd-logind[615]: Session 4541 logged out. Waiting for processes to exit.
+авг 14 00:12:01 userpc systemd[1]: session-4541.scope: Deactivated successfully.
+авг 14 00:12:01 userpc systemd-logind[615]: Removed session 4541.
+авг 14 00:12:01 userpc sshd[237281]: Accepted password for Mokona from 127.0.0.1 port 52474 ssh2
+авг 14 00:12:01 userpc sshd[237281]: pam_unix(sshd:session): session opened for user Mokona(uid=1001) by (uid=0)
+авг 14 00:12:01 userpc systemd-logind[615]: New session 4542 of user Mokona.
+авг 14 00:12:01 userpc snapd-desktop-i[236269]: Detected new session 4542 at /org/freedesktop/login1/session/_34542
+авг 14 00:12:01 userpc systemd[1]: Started Session 4542 of User Mokona.
+авг 14 00:12:01 userpc sshd[237281]: pam_unix(sshd:session): session closed for user Mokona
+авг 14 00:12:01 userpc systemd-logind[615]: Session 4542 logged out. Waiting for processes to exit.
+авг 14 00:12:01 userpc systemd[1]: session-4542.scope: Deactivated successfully.
+авг 14 00:12:01 userpc systemd-logind[615]: Removed session 4542.
+авг 14 00:12:01 userpc sshd[237324]: Accepted password for Mokona from 127.0.0.1 port 52486 ssh2
+авг 14 00:12:01 userpc sshd[237324]: pam_unix(sshd:session): session opened for user Mokona(uid=1001) by (uid=0)
+авг 14 00:12:01 userpc systemd-logind[615]: New session 4543 of user Mokona.
+авг 14 00:12:01 userpc snapd-desktop-i[236269]: Detected new session 4543 at /org/freedesktop/login1/session/_34543
+авг 14 00:12:01 userpc systemd[1]: Started Session 4543 of User Mokona.
+авг 14 00:12:01 userpc sshd[237324]: pam_unix(sshd:session): session closed for user Mokona
+авг 14 00:12:01 userpc systemd-logind[615]: Session 4543 logged out. Waiting for processes to exit.
+авг 14 00:12:01 userpc systemd[1]: session-4543.scope: Deactivated successfully.
+авг 14 00:12:01 userpc systemd-logind[615]: Removed session 4543.
+авг 14 00:12:01 userpc sshd[237366]: Accepted password for Mokona from 127.0.0.1 port 52492 ssh2
+авг 14 00:12:01 userpc sshd[237366]: pam_unix(sshd:session): session opened for user Mokona(uid=1001) by (uid=0)
+авг 14 00:12:01 userpc systemd-logind[615]: New session 4544 of user Mokona.
+авг 14 00:12:01 userpc snapd-desktop-i[236269]: Detected new session 4544 at /org/freedesktop/login1/session/_34544
+авг 14 00:12:01 userpc systemd[1]: Started Session 4544 of User Mokona.
+авг 14 00:12:01 userpc sshd[237366]: pam_unix(sshd:session): session closed for user Mokona
+авг 14 00:12:02 userpc systemd[1]: session-4544.scope: Deactivated successfully.
+авг 14 00:12:02 userpc systemd-logind[615]: Session 4544 logged out. Waiting for processes to exit.
+авг 14 00:12:02 userpc systemd-logind[615]: Removed session 4544.
+авг 14 00:12:02 userpc sshd[237408]: Accepted password for Mokona from 127.0.0.1 port 52506 ssh2
+авг 14 00:12:02 userpc sshd[237408]: pam_unix(sshd:session): session opened for user Mokona(uid=1001) by (uid=0)
+авг 14 00:12:02 userpc systemd-logind[615]: New session 4545 of user Mokona.
+авг 14 00:12:02 userpc snapd-desktop-i[236269]: Detected new session 4545 at /org/freedesktop/login1/session/_34545
+авг 14 00:12:02 userpc systemd[1]: Started Session 4545 of User Mokona.
+авг 14 00:12:02 userpc sshd[237408]: pam_unix(sshd:session): session closed for user Mokona
+авг 14 00:12:02 userpc systemd-logind[615]: Session 4545 logged out. Waiting for processes to exit.
+авг 14 00:12:02 userpc systemd[1]: session-4545.scope: Deactivated successfully.
+авг 14 00:12:02 userpc systemd-logind[615]: Removed session 4545.
+авг 14 00:12:02 userpc sshd[237452]: Accepted password for Mokona from 127.0.0.1 port 52522 ssh2
+авг 14 00:12:02 userpc sshd[237452]: pam_unix(sshd:session): session opened for user Mokona(uid=1001) by (uid=0)
+авг 14 00:12:02 userpc systemd-logind[615]: New session 4546 of user Mokona.
+авг 14 00:12:02 userpc snapd-desktop-i[236269]: Detected new session 4546 at /org/freedesktop/login1/session/_34546
+авг 14 00:12:02 userpc systemd[1]: Started Session 4546 of User Mokona.
+авг 14 00:12:02 userpc sshd[237452]: pam_unix(sshd:session): session closed for user Mokona
+авг 14 00:12:02 userpc systemd-logind[615]: Session 4546 logged out. Waiting for processes to exit.
+авг 14 00:12:02 userpc systemd[1]: session-4546.scope: Deactivated successfully.
+авг 14 00:12:02 userpc systemd-logind[615]: Removed session 4546.
+авг 14 00:12:02 userpc sshd[237494]: Accepted password for Mokona from 127.0.0.1 port 52528 ssh2
+авг 14 00:12:02 userpc sshd[237494]: pam_unix(sshd:session): session opened for user Mokona(uid=1001) by (uid=0)
+авг 14 00:12:02 userpc systemd-logind[615]: New session 4547 of user Mokona.
+авг 14 00:12:02 userpc snapd-desktop-i[236269]: Detected new session 4547 at /org/freedesktop/login1/session/_34547
+авг 14 00:12:02 userpc systemd[1]: Started Session 4547 of User Mokona.

@@ -1,0 +1,12 @@
+FOLDER_TST: /home/Mokona/tst
+FOLDER_OUT: /home/Mokona/out
+FOLDER_folder1: /home/Mokona/folder1
+count: 2
+bs: 2M
+file_extension: zip
+host: 0.0.0.0
+user: Mokona
+passwd: "11"
+file_name: p7zip-full
+HOME_USER2: /home/Mokona/
+PATH_FILE: tests/
