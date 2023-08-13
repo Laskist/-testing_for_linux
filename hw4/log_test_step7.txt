@@ -1,9 +1,0 @@
-авг 14 00:12:06 userpc sshd[237960]: Accepted password for Mokona from 127.0.0.1 port 52658 ssh2
-авг 14 00:12:06 userpc sshd[237960]: pam_unix(sshd:session): session opened for user Mokona(uid=1001) by (uid=0)
-авг 14 00:12:06 userpc systemd-logind[615]: New session 4558 of user Mokona.
-авг 14 00:12:06 userpc snapd-desktop-i[236269]: Detected new session 4558 at /org/freedesktop/login1/session/_34558
-авг 14 00:12:06 userpc systemd[1]: Started Session 4558 of User Mokona.
-авг 14 00:12:06 userpc sshd[237960]: pam_unix(sshd:session): session closed for user Mokona
-авг 14 00:12:06 userpc systemd[1]: session-4558.scope: Deactivated successfully.
-авг 14 00:12:06 userpc systemd-logind[615]: Session 4558 logged out. Waiting for processes to exit.
-авг 14 00:12:06 userpc systemd-logind[615]: Removed session 4558.
